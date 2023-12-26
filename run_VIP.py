@@ -174,4 +174,4 @@ def runDeticKeyFrame_VIP(images_folder: str) -> dict:
 if __name__ == "__main__":
     print(
         runDetic_VIP("/data4/ersp2022/danny/exampleimages/objects")
-    )  # Put path to images folder
+    )  # Add path to images folder
