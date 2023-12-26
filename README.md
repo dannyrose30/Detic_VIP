@@ -1,3 +1,13 @@
+# VIP Notes:
+New files added/changed for VIP:
+- run_VIP.py (adds two functions to run Detic)
+
+Details on how to edit with paths:
+- Specify <a href="https://github.com/dannyrose30/Detic_VIP/blob/c4e7ec1df3ca220d03d74b4845cc624321c302cf/run_VIP.py#L30">path</a> to CenterNet2 (setup instructions to be added soon)
+- Specify <a href="https://github.com/dannyrose30/Detic_VIP/blob/c4e7ec1df3ca220d03d74b4845cc624321c302cf/run_VIP.py#L41">path</a> to CLIP config (setup instructions to be added soon)
+- Spceify <a href="https://github.com/dannyrose30/Detic_VIP/blob/5a1f42081b8d54b3a4078dd1d2c596e42b1e7f17/run_VIP.py#L174">path</a> to images folder in which to run Detic
+
+
 # Detecting Twenty-thousand Classes using Image-level Supervision
 
 **Detic**: A **Det**ector with **i**mage **c**lasses that can use image-level labels to easily train detectors.
